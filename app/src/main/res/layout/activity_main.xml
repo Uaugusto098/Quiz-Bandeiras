@@ -45,15 +45,13 @@
                 android:textColor="#EBE4E4" />
 
 
-
-
             <TextView
                 android:id="@+id/textView28"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif-black"
                 android:foregroundGravity="center"
-                android:text="RA:16704"
+                android:text="RA:1670482422040"
                 android:textColor="#E0D6D6" />
 
         </LinearLayout>

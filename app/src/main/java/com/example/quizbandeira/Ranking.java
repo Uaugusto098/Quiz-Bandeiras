@@ -34,9 +34,6 @@ public class Ranking extends AppCompatActivity {
             return insets;
         });
 
-
-
-
         ranking=findViewById(R.id.ranking);
         score=findViewById(R.id.score);
         tentar=findViewById(R.id.tentar);
@@ -75,21 +72,6 @@ public class Ranking extends AppCompatActivity {
 
             }
         });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
